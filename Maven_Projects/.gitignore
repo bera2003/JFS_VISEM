@@ -1,0 +1,10 @@
+# Maven
+target/
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.class
